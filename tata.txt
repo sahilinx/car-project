@@ -3,3 +3,5 @@ sumo
 hexa
 punch
 tigor
+curve
+harrier
