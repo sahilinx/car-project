@@ -1,3 +1,5 @@
 nexon
 sumo
 hexa
+punch
+tigor
